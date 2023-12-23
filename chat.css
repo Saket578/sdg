@@ -1,0 +1,40 @@
+#heading {
+    font-size: 6vw; /* 6% of the viewport width */
+    height: 8vh; /* 8% of the viewport height */
+    border-radius: 0 0 20px 20px; /* Adjusted border radius */
+}
+
+#promt_question_1,
+#promt_question_2 {
+    font-size: 6vw;
+    /* Other styles... */
+}
+
+#promt_answer_1 {
+    width: 80vw; /* 80% of the viewport width */
+    height: 25vh; /* 25% of the viewport height */
+    /* Other styles... */
+}
+
+.headings {
+    font-size: 5vw; /* 5% of the viewport width */
+    /* Other styles... */
+}
+
+.answers {
+    width: 80vw;
+    font-size: 3vw; /* 3% of the viewport width */
+    /* Other styles... */
+}
+
+button {
+    height: 12vh; /* 12% of the viewport height */
+    width: 30vw; /* 30% of the viewport width */
+    font-size: 3vw; /* 3% of the viewport width */
+    /* Other styles... */
+}
+
+#copyright_div {
+    font-size: 3vw; /* 3% of the viewport width */
+    /* Other styles... */
+}
